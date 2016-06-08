@@ -1,23 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:46.432163
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:12
 #+TITLE: 聖迦柅忿怒金剛童子菩薩成就儀軌經
 #+PROPERTY: CBETA_ID T21n1222b
 #+PROPERTY: ID KR6j0450
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1222b
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0450_T_000-0118c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0450_T_001-0118c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 
-:PROPERTIES:
-:head: No.1222
-:END:
+ No. 1222¶
 ¶
-¶
-
- 聖迦柅忿怒金剛童子菩薩成就¶
+聖迦柅忿怒金剛童子菩薩成就¶
 儀軌經卷上(出蘇悉地經大明王教中第六品)¶
 ¶
 唐三藏沙門大廣智不空譯

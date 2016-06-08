@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:46.496632
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:12
 #+TITLE: 聖迦柅忿怒金剛童子菩薩成就儀軌經
 #+PROPERTY: CBETA_ID T21n1222b
 #+PROPERTY: ID KR6j0450
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1222b
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0450_T_000-0118c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0450_T_003-0127b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 聖迦柅忿怒金剛童子菩薩成就¶
+聖迦柅忿怒金剛童子菩薩成就¶
 儀軌經卷下¶
 ¶
 唐三藏沙門大廣智不空譯¶
@@ -52,9 +51,9 @@
 　入忿怒王定
 　威德如金剛¶
 　能伏難調者
-　悉皆令順伏
+　悉皆令順伏」
 #+END_VERSE
-」¶
+¶
 
 又法取蓮華或有香氣華。護摩所求皆得。¶
 
